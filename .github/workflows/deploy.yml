@@ -7,6 +7,10 @@ on:
     paths:
       - "book/**"
       - ".github/workflows/**"
+    workflow_dispatch:
+
+permissions:
+  contents: write
 
 defaults:
   run:
