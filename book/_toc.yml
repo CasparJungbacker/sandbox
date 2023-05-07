@@ -1,2 +1,5 @@
 format: jb-book
 root: intro.md
+
+chapters:
+- file: jupyterlite.md

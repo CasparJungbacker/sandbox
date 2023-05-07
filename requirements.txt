@@ -8,3 +8,5 @@ jupyterquiz
 pytest
 seaborn
 sympy
+jupyterlite-core
+jupyterlab
