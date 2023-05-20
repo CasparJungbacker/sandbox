@@ -1,7 +1,7 @@
 # Interactive elements with Jupyterlite-Sphinx
 
 ```{eval-rst}
-.. replite:: wave.ipynb
+.. replite::
    :kernel: python
    :height: 600px
 ```
