@@ -36,3 +36,6 @@ open_book.sh
 
 # Images from Python code
 *_py.svg
+
+# Jupyter-lite
+_output/
