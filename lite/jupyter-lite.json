@@ -10,8 +10,9 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.b340cae4b3c1bda6a7fd.js",
-        "name": "@jupyterlite/pyodide-kernel-extension"
+        "load": "static/remoteEntry.4c5f981b85270b4af31f.js",
+        "name": "@jupyterlite/xeus-python-kernel",
+        "style": "./style"
       },
       {
         "extension": "./extension",
@@ -298,13 +299,6 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
-    "litePluginSettings": {
-      "@jupyterlite/pyodide-kernel-extension:kernel": {
-        "pipliteUrls": [
-          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=55f1d3982adfce14adaebe30c941e4857226d00982e31d3c3a92acf14de17eac"
-        ]
-      }
-    },
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
   },
   "jupyter-lite-schema-version": 0
