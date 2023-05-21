@@ -13,13 +13,13 @@ execute:
 ################################################################################
 # Sphinx settings
 sphinx:
+  extra_extensions:
+  - jupyterlite_sphinx
   config:
+    jupyterlite_config: jupyterlite-config.json
     # Bibliography style
     bibtex_reference_style: author_year
     # Use newer version of Mathjax for latex equation formatting
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-    jupyterlite_config: juptyerlite-config.json
-  extra_extensions:
-  - jupyterlite_sphinx
 
 
