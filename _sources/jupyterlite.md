@@ -2,5 +2,6 @@
 
 ```{eval-rst}
 .. replite::
-   :height: 600px
+    :kernel: xeus-python
+    :height: 600px
 ```
