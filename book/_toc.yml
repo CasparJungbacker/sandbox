@@ -3,4 +3,5 @@ root: intro.md
 
 chapters:
 - file: jupyterlite.md
+- file: chapter-1.md
 - file: chapter-2.md
